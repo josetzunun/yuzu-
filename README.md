@@ -40,4 +40,4 @@ For a full list of games yuzu support, please visit our [Compatibility page](htt
 Check out our [website](https://yuzu-emu.org/) for the latest news on exciting features, monthly progress reports, and more!
 
 ## Development
-wip
+
