@@ -41,3 +41,42 @@ Check out our [website](https://yuzu-emu.org/) for the latest news on exciting f
 
 ## Development
 
+Most of the development happens on GitHub. It's also where [our central repository](https://github.com/yuzu-emu/yuzu) is hosted. For development discussion, please join us on [Discord](https://discord.com/invite/aG8WbEGQRV).
+
+If you want to contribute, please take a look at the [Contributor's Guide](https://gihub.com/yuzu-emu/yuzu/wiki/Contributing) and [Developer Information](https://github.com/yuzu-emu/yuzu/wiki/Developer-Information).
+You can also contact any of the developers on Discord in order to know about the current state of the emulator.
+
+If you want to contribute to the user interface translation project, please check out the [yuzu project on transifex](https://www.transifex.com/yuzu-emulator/yuzu). We centralize translation work there, and periodically upstream translations.
+
+## Building
+
+* __Windows__: [Windows Build](https://github.com/yuzu-emu/yuzu/wiki/Building-For-Windows)
+* __Linux__: [Linux Build](https://github.com/yuzu-emu/yuzu/wiki/Building-For-Linux)
+
+## Download
+
+You can download the latest releases automatically via the installer on our [downloads](https://yuzu-emu.org/downloads/) page.
+
+
+## Support
+
+If you enjoy the project and want to support up financially, check out our Patreon!
+
+<a href="https://www.patreon.com/josetzunun">
+    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+
+Any donations received will go towards things like:
+* Switch consoles to explore and reverse-engineer the hardware
+* Switch games for testing, reverse-engineering, and implementing new features
+* Web hosting and infrastructure setup
+* Software licenses (e.g. Visual Stupid, IDA Pro, etc.)
+* Additional hardware (e.g. GPUs as-needed to improve rendering support, other peripherals to add support for, etc.)
+
+If you wish to support us a diffrent way, please join our [Discord](https://discord.gg/aG8WbEGQRV) and talk to Jose. You may also contact: josetzunun1994@gmail.com
+
+## License
+
+yuzu is licensed under the GPLv2 (or any latest version). Refer to the [license.txt](https://github.com/josetzunun/yuzu-/blob/master/license.txt) file.
+
+The [Skyline-Emulator Team](https://github.com/skyline-emu/skyline) is exempt from GPLv2 for the contributions from all these contributors [josetzunun](https://github.com/josetzunun) They may only use the code from these contributors under Mozilla Public License, version 2.0.
