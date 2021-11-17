@@ -1,0 +1,11 @@
+trigger:
+- master
+
+pool:
+  vmImage: 'ubuntu-latest'
+  
+stages:
+- stage: merge
+  displayName: 'merge'
+  jobs:
+  - template: ./templates/merge.ym1
